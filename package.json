@@ -1,0 +1,9 @@
+{
+    "name": "projeto-clojure",
+    "scripts": {
+        "start": "nbb main.cljs"
+    },
+    "dependencies": {
+        "nbb": "^0.5.115"
+    }
+}
